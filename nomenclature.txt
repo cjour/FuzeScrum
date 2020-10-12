@@ -1,6 +1,0 @@
-Nomenclature des définitions pour mot technique
-
-Mentorat : relation d'aide et d'apprentissage dans le but de favoriser le développement d'une personne.
-Mentoré : personne jumelée à un mentor qui bénéficie de l'aide de celui ci pour acquérir des compétences dans la réalisation de ses objectifs.
-Mentor : personne jumelée à un mentoré qui avise ce dernier pour l'aider à atteindre ses objectifs.
-Visioconférence : Téléconférence permettant, en plus de la transmission de la parole et de documents graphiques, la transmission d'images animées des participants éloignés.
