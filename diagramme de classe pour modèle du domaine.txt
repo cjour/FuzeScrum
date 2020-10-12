@@ -1,1 +1,15 @@
-Réalisez un diagramme de classe pour le projet FuzeScrum.
+Question séance du 12/10/2020
+
+Les users stories et leurs critères d'acceptations.
+
+Comment rédiger correctement les critères d'acceptation ?
+
+
+Les métriques du projet.
+
+De quoi s'agît-il ?
+
+
+Le diagramme de classe.
+
+J'ai réalisé un diagramme de classe mais j'ai des difficultés à concevoir les classes. Quelles règles suivre ?
