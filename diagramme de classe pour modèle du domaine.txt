@@ -9,7 +9,24 @@ Les métriques du projet.
 
 De quoi s'agît-il ?
 
+Quels sont les critères d'évaluation du projet pour l'équipe de dev.
+J'ai estimé le temps pour une semaine mais en faite ils en ont mis deux.
+
 
 Le diagramme de classe.
 
 J'ai réalisé un diagramme de classe mais j'ai des difficultés à concevoir les classes. Quelles règles suivre ?
+
+Identifier les objets que je vais manipuler.
+Le contrat.
+Les notes de session.
+Le compte rendu de session.
+
+Association de classe entre session et mentor / mentee.
+
+Identifier les méthodes qui font changer les états des attributs.
+
+
+Essayer de trouver un framework pour le back (type Spring).
+Comparer les autres framework avec Spring pour démontrer qu'il est bien.
+Regarder les différents framework pour le front end également.
